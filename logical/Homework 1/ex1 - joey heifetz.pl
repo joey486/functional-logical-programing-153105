@@ -1,4 +1,4 @@
-% id: 216175398
+
 
 
 married(avr,sara). 

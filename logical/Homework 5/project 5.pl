@@ -1,5 +1,4 @@
 % name: yosef hiefetz
-% ID: 216175398
 
 %1
 grade(sara,97).

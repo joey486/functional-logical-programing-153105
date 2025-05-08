@@ -1,4 +1,3 @@
-%ID - 216175398
 %name - joey heifetz
 
 %my_reverse

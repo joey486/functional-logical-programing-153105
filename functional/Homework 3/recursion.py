@@ -1,4 +1,3 @@
-# ID: 216175398
 # Name: Joesf Heifetz
 
 import math
